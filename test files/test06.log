@@ -1,0 +1,6 @@
+Program loaded: 3 words
+
+Execution Start
+PC=0 A=0 B=0 SP=0 OPCODE=0 OPERAND=524287
+PC=1 A=524287 B=0 SP=0 OPCODE=4 OPERAND=0
+ERROR: memory read out of bounds (524287)

@@ -1,0 +1,11 @@
+Line 4: Error: duplicate label label
+Line 6: Error: invalid number 08ge
+Line 7: Error: missing operand for ldc
+Line 8: Error: extra operand for add
+Line 9: Error: extra text at end of line
+Line 10: Error: invalid label name 0def
+Line 11: Error: unknown instruction fibble
+Line 12: Error: unknown instruction 0def
+Line 5: Error: undefined label nonesuch
+
+Total errors: 9
